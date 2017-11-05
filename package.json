@@ -2,7 +2,7 @@
   "name": "@empaq/empaq-test-src",
   "version": "1.0.0",
   "description": "Testing empaq...",
-  "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "release": "release-it"
   },
