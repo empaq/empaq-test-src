@@ -1,0 +1,22 @@
+{
+  "name": "@empaq/empaq-test-src",
+  "version": "0.0.0",
+  "description": "Testing empaq...",
+  "main": "index.js",
+  "scripts": {
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/empaq/empaq-test-src.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/empaq/empaq-test-src/issues"
+  },
+  "homepage": "https://github.com/empaq/empaq-test-src#readme",
+  "devDependencies": {
+    "release-it": "^4.3.0"
+  }
+}
