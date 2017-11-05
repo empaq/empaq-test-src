@@ -1,6 +1,6 @@
 {
   "name": "@empaq/empaq-test-src",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Testing empaq...",
   "main": "index.js",
   "scripts": {
